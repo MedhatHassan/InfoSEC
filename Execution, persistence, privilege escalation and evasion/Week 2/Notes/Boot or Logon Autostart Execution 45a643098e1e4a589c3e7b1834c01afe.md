@@ -14,4 +14,4 @@ functionality
           locations
     
 
-![Untitled](Boot%20or%20Logon%20Autostart%20Execution%2045a643098e1e4a589c3e7b1834c01afe/Untitled.png)
+![Untitled](images/Untitled.png)
