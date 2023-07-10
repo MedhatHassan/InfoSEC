@@ -9,7 +9,7 @@ different ways
     — Changing system path
     — Exploiting DLL search order
     
-    ![Untitled](Hijack%20Execution%20Flow%2081a5932ca9ae4604b20d3a8a6b1ed9a7/Untitled.png)
+    ![Untitled](images/Untitled1.png)
     
     ### Modify the system paths to insert path for exe in a path of exesting exe
     
