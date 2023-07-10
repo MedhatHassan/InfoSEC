@@ -12,7 +12,7 @@ malware
 • Fileless malware can be written into a
 scheduled task
 
-![Untitled](Scheduled%20Execution%207651351a4d934a62a28216a2d2ca964e/Untitled.png)
+![Untitled](images/Untitled.png)
 
 # schtasks command
 
