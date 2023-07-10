@@ -4,6 +4,7 @@
      <a href="https://github.com/MedhatHassan/InfoSEC/tree/main/Intro%20to%20python%20for%20hacking/Module%203#malicious-usb-autorun">Malicious USB AutoRun</a>
   </li>
   <li>
+    <a href="https://github.com/MedhatHassan/InfoSEC/tree/main/Intro%20to%20python%20for%20hacking/Module%203#ssh-and-telnet-brute-force-tool">SSH and Telnet Brute-Force Tool</a>
   </li>
   <li>
   </li>
@@ -31,11 +32,9 @@ python malicious_usb_autorun.py <python_script> <executable_name> <icon_file>
 
 You can customize the autorun file by modifying the script. By default, the autorun file will run the executable and set the label of the USB drive to "My USB".
 
-## Credits
 
-This script was created by [Your Name] for the [Course Name] course at [University Name]. Feel free to use and modify this script for your own projects.
-
-Here's a professional GitHub description for the Python script:
+<br>
+<br>
 
 # SSH and Telnet Brute-Force Tool
 
@@ -57,6 +56,3 @@ python ssh_telnet_bruteforce.py <host> <path_to_file> <ssh_port> <telnet_port>
 
 The script will read the username and password combinations from the file and attempt to login to the SSH and Telnet services using each combination. If a successful login is found, the script will print a message indicating the successful login.
 
-## Credits
-
-This script was created by [Your Name] for the [Course Name] course at [University Name]. Feel free to use and modify this script for your own projects.
