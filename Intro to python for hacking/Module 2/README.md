@@ -1,6 +1,6 @@
 # Subdomain Enumeration Tool
 
-This is a Python script that performs subdomain enumeration by brute-forcing subdomains using a wordlist and performing DNS requests on each subdomain. The script uses the "dns" and "socket" libraries to perform DNS requests and reverse DNS lookups, respectively.
+This is a Python script that performs subdomain enumeration by brute-forcing subdomains using a <a href="https://github.com/MedhatHassan/InfoSEC/blob/main/Intro%20to%20python%20for%20hacking/Module%202/sub">wordlist</a> and performing DNS requests on each subdomain. The script uses the "dns" and "socket" libraries to perform DNS requests and reverse DNS lookups, respectively.
 
 ## Requirements
 
