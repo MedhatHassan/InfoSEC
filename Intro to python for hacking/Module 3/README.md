@@ -4,9 +4,7 @@
      <a href="https://github.com/MedhatHassan/InfoSEC/tree/main/Intro%20to%20python%20for%20hacking/Module%203#malicious-usb-autorun">Malicious USB AutoRun</a>
   </li>
   <li>
-    <a href="https://github.com/MedhatHassan/InfoSEC/tree/main/Intro%20to%20python%20for%20hacking/Module%203#ssh-and-telnet-brute-force-tool">SSH and Telnet Brute-Force Tool</a>
-  </li>
-  <li>
+    <a href="https://github.com/MedhatHassan/InfoSEC/tree/main/Intro%20to%20python%20for%20hacking/Module%203#ssh-and-telnet-brute-force-tool">SSH and Telnet Defualt Credentials Brute-Force Tool</a>
   </li>
 </ui>
 
@@ -32,11 +30,10 @@ python malicious_usb_autorun.py <python_script> <executable_name> <icon_file>
 
 You can customize the autorun file by modifying the script. By default, the autorun file will run the executable and set the label of the USB drive to "My USB".
 
-
 <br>
 <br>
 
-# SSH and Telnet Brute-Force Tool
+# SSH and Telnet Defualt Credentials Brute-Force Tool
 
 This is a Python script that performs brute-force attacks on SSH and Telnet services by trying different username and password combinations. The script uses the "paramiko" and "telnetlib" libraries to establish a connection with the target host and attempt to login with the provided credentials.
 
@@ -48,7 +45,7 @@ This is a Python script that performs brute-force attacks on SSH and Telnet serv
 
 ## Usage
 
-To use this tool, simply run the script and provide the target host IP address, the path to the <a href=""></a> containing the username and password combinations, and the port number for SSH and Telnet services.
+To use this tool, simply run the script and provide the target host IP address, the path to the <a href="https://github.com/MedhatHassan/InfoSEC/blob/main/Intro%20to%20python%20for%20hacking/Module%203/defaults">Defualt Credentials Wordlist</a> containing the username and password combinations, and the port number for SSH and Telnet services.
 
 ```
 python ssh_telnet_bruteforce.py <host> <path_to_file> <ssh_port> <telnet_port>
