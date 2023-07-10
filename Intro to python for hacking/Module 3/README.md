@@ -34,3 +34,29 @@ You can customize the autorun file by modifying the script. By default, the auto
 ## Credits
 
 This script was created by [Your Name] for the [Course Name] course at [University Name]. Feel free to use and modify this script for your own projects.
+
+Here's a professional GitHub description for the Python script:
+
+# SSH and Telnet Brute-Force Tool
+
+This is a Python script that performs brute-force attacks on SSH and Telnet services by trying different username and password combinations. The script uses the "paramiko" and "telnetlib" libraries to establish a connection with the target host and attempt to login with the provided credentials.
+
+## Requirements
+
+- Python 3.x
+- paramiko library
+- telnetlib library
+
+## Usage
+
+To use this tool, simply run the script and provide the target host IP address, the path to the <a href=""></a> containing the username and password combinations, and the port number for SSH and Telnet services.
+
+```
+python ssh_telnet_bruteforce.py <host> <path_to_file> <ssh_port> <telnet_port>
+```
+
+The script will read the username and password combinations from the file and attempt to login to the SSH and Telnet services using each combination. If a successful login is found, the script will print a message indicating the successful login.
+
+## Credits
+
+This script was created by [Your Name] for the [Course Name] course at [University Name]. Feel free to use and modify this script for your own projects.
