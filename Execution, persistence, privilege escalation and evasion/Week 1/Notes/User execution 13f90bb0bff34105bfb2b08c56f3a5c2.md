@@ -9,4 +9,4 @@ Users are easier to trick than technical defenses
 — Clicking a malicious link
 — Opening a malicious file
 
-![Untitled](User%20execution%2013f90bb0bff34105bfb2b08c56f3a5c2/Untitled.png)
+![Untitled](images/Untitled1.png)
