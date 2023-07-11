@@ -4,7 +4,7 @@ This repository contains my notes for the course "Execution, Persistence, Privil
 
 The notes are organized by week and include summaries of the lectures, key points, and important concepts. They serve as a helpful reference for anyone interested in learning about cybersecurity using Python. 
 
-The course is recommended for individuals with some knowledge of Python and 1-5 years of experience in cybersecurity. It is an intermediate-level course that requires approximately 4 hours to complete. 
+The course is recommended for individuals with knowledge of Python and experience in cybersecurity. It is an intermediate-level course. 
 
 Feel free to use these notes as a reference for your own learning or to supplement your understanding of the course materials. If you have any questions or comments, please feel free to reach out to me. 
 
