@@ -29,10 +29,12 @@ This Python script sets up a reverse shell on a target machine, allowing an atta
 
 - Python 2.7 or 3.x
 
-##### Installation
+#### Installation
 
-No installation is required. Simply download the `reverse_shell.py` file to your machine.
-
+```
+git clone https://github.com/MedhatHassan/InfoSEC 
+cd InfoSEC/Execution\%2C\ persistence\%2C\ privilege\ escalation\ and\ evasion/Week\ 2
+```
 ##### Usage
 
 To use the script, run the following command on the target machine:
@@ -51,9 +53,12 @@ This Python script sets up a bind shell on a target machine, allowing an attacke
 
 - Python 2.7 or 3.x
 
-##### Installation
+#### Installation
 
-No installation is required. Simply download the `bind_shell.py` file to your machine.
+```
+git clone https://github.com/MedhatHassan/InfoSEC 
+cd InfoSEC/Execution\%2C\ persistence\%2C\ privilege\ escalation\ and\ evasion/Week\ 2
+```
 
 ##### Usage
 
@@ -74,9 +79,12 @@ This Python script demonstrates how to achieve persistence on a target machine, 
 - Python 2.7 or 3.x
 - Windows operating system
 
-##### Installation
+#### Installation
 
-No installation is required. Simply download the `persistence.py` file to your Windows machine.
+```
+git clone https://github.com/MedhatHassan/InfoSEC 
+cd InfoSEC/Execution\%2C\ persistence\%2C\ privilege\ escalation\ and\ evasion/Week\ 2
+```
 
 ##### Usage
 
@@ -97,9 +105,12 @@ This Bash script demonstrates a privilege escalation attack, in which an attacke
 - Bash shell
 - `sudo` command
 
-##### Installation
+#### Installation
 
-No installation is required. Simply download the `privilege_escalation.sh` file to your machine.
+```
+git clone https://github.com/MedhatHassan/InfoSEC 
+cd InfoSEC/Execution\%2C\ persistence\%2C\ privilege\ escalation\ and\ evasion/Week\ 2
+```
 
 ##### Usage
 
