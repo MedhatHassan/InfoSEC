@@ -15,6 +15,8 @@ Feel free to use these notes as a reference for your own learning or to suppleme
 - Specialization: Python for Cybersecurity
 - Course level: Intermediate
 - Prerequisites: knowledge of Python and experience in cybersecurity.
+  
+Course Link: [https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion ↗](https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion)
 
 The notes include the following topics:
 
@@ -28,8 +30,6 @@ Each week's notes contain detailed explanations of the concepts, techniques, and
 The notes are written in clear and concise language and are suitable for both beginners and experienced practitioners in InfoSec. They are maintained on GitHub, making it easy for users to contribute, collaborate, and provide feedback.
 
 Whether you are a student who wants to prepare for the course or a professional who needs a quick reference guide, these notes are an excellent resource to enhance your knowledge, skills, and confidence in executing, persisting, escalating privileges, and evading threats in various cybersecurity scenarios.
-
-Course Link: [https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion ↗](https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion)
 
 
 ## How to Use These Notes
