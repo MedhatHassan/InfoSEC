@@ -1,8 +1,12 @@
 # InfoSec Course Notes: Execution, Persistence, Privilege Escalation, and Evasion
 
-These notes are a comprehensive resource for the Execution, Persistence, Privilege Escalation, and Evasion module of the InfoSec course on Coursera. The course covers critical areas of information security, including different types of malware, persistence mechanisms, privilege escalation methods, and evasion techniques.
+This repository contains my notes for the course "Execution, Persistence, Privilege Escalation, and Evasion" offered by Coursera as part of the "Python for Cybersecurity Specialization". The course covers important topics in cybersecurity such as execution, persistence, privilege escalation, and evasion. 
 
-The notes are organized by week and cover the key topics, subtopics, and examples covered in each week's lectures, readings, and assignments. They are designed to serve as a quick reference guide for students and professionals who want to deepen their understanding of InfoSec and stay up-to-date with the latest trends, threats, and best practices.
+The notes are organized by week and include summaries of the lectures, key points, and important concepts. They serve as a helpful reference for anyone interested in learning about cybersecurity using Python. 
+
+The course is recommended for individuals with some knowledge of Python and 1-5 years of experience in cybersecurity. It is an intermediate-level course that requires approximately 4 hours to complete. 
+
+Feel free to use these notes as a reference for your own learning or to supplement your understanding of the course materials. If you have any questions or comments, please feel free to reach out to me. 
 
 ## Course Information
 
@@ -26,16 +30,6 @@ The notes are written in clear and concise language and are suitable for both be
 Whether you are a student who wants to prepare for the course or a professional who needs a quick reference guide, these notes are an excellent resource to enhance your knowledge, skills, and confidence in executing, persisting, escalating privileges, and evading threats in various cybersecurity scenarios.
 
 Course Link: [https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion ↗](https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion)
-
-# Execution, Persistence, Privilege Escalation, and Evasion
-
-This repository contains my notes for the course "Execution, Persistence, Privilege Escalation, and Evasion" offered by Coursera as part of the "Python for Cybersecurity Specialization". The course covers important topics in cybersecurity such as execution, persistence, privilege escalation, and evasion. 
-
-The notes are organized by week and include summaries of the lectures, key points, and important concepts. They serve as a helpful reference for anyone interested in learning about cybersecurity using Python. 
-
-The course is recommended for individuals with some knowledge of Python and 1-5 years of experience in cybersecurity. It is an intermediate-level course that requires approximately 4 hours to complete. 
-
-Feel free to use these notes as a reference for your own learning or to supplement your understanding of the course materials. If you have any questions or comments, please feel free to reach out to me. 
 
 
 ## How to Use These Notes
