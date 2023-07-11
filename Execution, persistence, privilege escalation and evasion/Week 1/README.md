@@ -19,8 +19,12 @@ This Python script demonstrates a phishing attack by creating a malicious link t
 ### Requirements
 - Python 3.x
 
-### Installation
-No installation is required. Simply download the `MaliciousLinks.py` file and run it in a Python environment.
+## Installation
+
+```
+git clone https://github.com/MedhatHassan/InfoSEC 
+cd InfoSEC/Execution\%2C\ persistence\%2C\ privilege\ escalation\ and\ evasion/Week\ 1
+```
 
 ### Usage
 1. Open the `MaliciousLinks.py` file in a code editor or IDE.
