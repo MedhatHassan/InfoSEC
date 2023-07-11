@@ -31,7 +31,7 @@ key = winreg.OpenKey(reg,regpath,0,access=winreg.KEY_WRITE)
 winreg.SetValueEx(key,"UserInitMprLogonScript",0,winreg.REG_SZ,filepath)
 ```
 
-### To the users of windows system [names & sids]
+### To get the users of windows system [names & sids]
 
 ```
 wmic useraccount get name,sid
