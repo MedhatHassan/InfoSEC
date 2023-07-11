@@ -32,3 +32,7 @@ winreg.SetValueEx(key,"UserInitMprLogonScript",0,winreg.REG_SZ,filepath)
 ```
 
 ### To the users of windows system [names & sids]
+
+```
+wmic useraccount get name,sid
+```
