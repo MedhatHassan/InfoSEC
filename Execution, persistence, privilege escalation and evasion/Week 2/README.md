@@ -1,4 +1,26 @@
+## InfoSEC Course Notes: Execution, Persistence, Privilege Escalation and Evasion - Week 2
 
+This repository contains my notes for Week 2 of the InfoSEC course on Coursera. The course covers various topics related to cybersecurity, including execution, persistence, privilege escalation, and evasion.
+
+### Contents
+
+The `Execution, persistence, privilege escalation and evasion/Week 2` directory contains the following files:
+
+- `README.md`: this file, providing an overview of the contents of the directory
+- `slides.pdf`: a PDF file containing the slides used in the course lectures
+- `notes.md`: my personal notes on the topics covered in Week 2
+
+### Code Examples
+
+In addition to the lecture slides and my notes, the course also includes several code examples. The following is a brief description of each code file:
+
+- `reverse_shell.py`: a Python script that sets up a reverse shell on a target machine
+- `bind_shell.py`: a Python script that sets up a bind shell on a target machine
+- `persistence.py`: a Python script that demonstrates how to achieve persistence on a target machine
+- `privilege_escalation.sh`: a Bash script that demonstrates a privilege escalation attack
+- `fileless_malware.ps1`: a PowerShell script that demonstrates a fileless malware attack
+
+Each code file is accompanied by a brief description of its purpose and usage in Markdown format.
 #### `reverse_shell.py`
 
 This Python script sets up a reverse shell on a target machine, allowing an attacker to gain remote access to the machine. The script opens a listener on the attacker's machine and connects to it from the target machine, giving the attacker control over the target machine.
