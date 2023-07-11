@@ -1,4 +1,4 @@
-## InfoSEC Course Notes: Execution, Persistence, Privilege Escalation and Evasion - Week 2
+# InfoSEC Course Notes: Execution, Persistence, Privilege Escalation and Evasion - Week 2
 
 This repository contains my notes for Week 2 of the InfoSEC course on Coursera. The course covers various topics related to cybersecurity, including execution, persistence, privilege escalation, and evasion.
 
