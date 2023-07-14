@@ -42,7 +42,7 @@ Contributions to InfoSEC are always welcome. To contribute, simply create a pull
 InfoSEC is licensed under the [MIT License ↗](https://github.com/MedhatHassan/InfoSEC/blob/main/LICENSE). Feel free to use and modify the resources and tools included in the repository for your own purposes.
 
 
-## Python for Cybersecurity Introduction
+## Introduction in Python for Cybersecurity 
 
 The course "Python for Cybersecurity Introduction" is also taught by hposton. In this course, you will learn the basics of Python and how to use it for cybersecurity purposes. You will learn how to write Python scripts to automate tasks, analyze network traffic, and identify vulnerabilities. This course is suitable for beginners who want to learn Python for cybersecurity purposes.
 
