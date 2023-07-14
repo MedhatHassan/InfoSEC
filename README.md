@@ -48,7 +48,6 @@ The course "Python for Cybersecurity Introduction" is also taught by hposton. In
 
 Course Link: [https://www.coursera.org/learn/pythonforcybersecurity-introduction/home/welcome ↗](https://www.coursera.org/learn/pythonforcybersecurity-introduction/home/welcome) 
 
-Credits to the course instructor: [hposton ↗](https://github.com/hposton)
 
 ## Execution, Persistence, Privilege Escalation, and Evasion
 
@@ -56,7 +55,6 @@ The course "Execution, Persistence, Privilege Escalation, and Evasion" is taught
 
 Course Link: [https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion/home/welcome ↗](https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion/home/welcome) 
 
-Credits to the course instructors: [Sherif Koussa ↗](https://www.coursera.org/instructor/sherif-koussa), [Andrew Smith ↗](https://www.coursera.org/instructor/andrew-smith-20), and [Bryson Payne ↗](https://www.coursera.org/instructor/bryson-payne)
 
 ## Advanced Python for Reconnaissance
 
