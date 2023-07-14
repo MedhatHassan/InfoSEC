@@ -64,3 +64,5 @@ Course Link: [https://www.coursera.org/learn/python-in-recon/home/welcome ↗](h
 
 ## Credits
 Credits to the course instructor: [hposton ↗](https://github.com/hposton)
+
+These courses are available on Coursera and provide an excellent starting point for individuals interested in learning more about cybersecurity and offensive security techniques. By combining these courses with the resources and tools included in the InfoSEC repository, individuals can gain a comprehensive understanding of information security and how to protect against cyber threats.
