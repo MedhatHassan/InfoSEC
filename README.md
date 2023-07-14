@@ -41,17 +41,6 @@ Contributions to InfoSEC are always welcome. To contribute, simply create a pull
 
 InfoSEC is licensed under the [MIT License ↗](https://github.com/MedhatHassan/InfoSEC/blob/main/LICENSE). Feel free to use and modify the resources and tools included in the repository for your own purposes.
 
-# Coursera | Online Courses & Credentials From Top Educators. 
-
-Welcome to Coursera, a leading platform for online education and learning. We offer a wide range of courses and credentials from top educators around the world. 
-
-## Python in Recon
-
-The course "Python in Recon" is taught by hposton, a GitHub user who has created several Python scripts for cybersecurity purposes. In this course, you will learn how to use Python for reconnaissance in the context of cybersecurity. You will learn how to gather information about targets, identify vulnerabilities, and automate tasks using Python scripts. This course is ideal for beginners who are interested in learning Python for cybersecurity purposes.
-
-Course Link: [https://www.coursera.org/learn/python-in-recon/home/welcome ↗](https://www.coursera.org/learn/python-in-recon/home/welcome) 
-
-Credits to the course instructor: [hposton ↗](https://github.com/hposton)
 
 ## Python for Cybersecurity Introduction
 
@@ -68,3 +57,12 @@ The course "Execution, Persistence, Privilege Escalation, and Evasion" is taught
 Course Link: [https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion/home/welcome ↗](https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion/home/welcome) 
 
 Credits to the course instructors: [Sherif Koussa ↗](https://www.coursera.org/instructor/sherif-koussa), [Andrew Smith ↗](https://www.coursera.org/instructor/andrew-smith-20), and [Bryson Payne ↗](https://www.coursera.org/instructor/bryson-payne)
+
+## Advanced Python for Reconnaissance
+
+The course "Python in Recon" is taught by hposton, a GitHub user who has created several Python scripts for cybersecurity purposes. In this course, you will learn how to use Python for reconnaissance in the context of cybersecurity. You will learn how to gather information about targets, identify vulnerabilities, and automate tasks using Python scripts. This course is ideal for beginners who are interested in learning Python for cybersecurity purposes.
+
+Course Link: [https://www.coursera.org/learn/python-in-recon/home/welcome ↗](https://www.coursera.org/learn/python-in-recon/home/welcome) 
+
+## Credits
+Credits to the course instructor: [hposton ↗](https://github.com/hposton)
