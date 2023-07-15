@@ -12,4 +12,7 @@ achieve
 - Evict <br>
 • D3FEND is also mapped to the ATT&CK
 framework
-[1](images/1.png)
+<br>
+
+
+![new](https://github.com/MedhatHassan/InfoSEC/blob/main/Advanced%20Python%20%20Reconnaissance/week%201%20%26%202/images/1.png)
