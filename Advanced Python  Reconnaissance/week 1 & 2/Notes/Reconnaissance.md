@@ -21,4 +21,7 @@ Reconnaissance can be performed in a variety of different ways
 
 Our goal is to go from no knowledge to identifying potential exploitation vectors
 
-[2](images/2.png)
+<br>
+
+
+![new](https://github.com/MedhatHassan/InfoSEC/blob/main/Advanced%20Python%20%20Reconnaissance/week%201%20%26%202/images/2.png)
